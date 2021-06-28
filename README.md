@@ -13,6 +13,6 @@
 [x] Não é permitido cadastro por usuários que não sejam administradores
 
 - Cadastro de elogios
-[ ] Não é permitido um usuário cadastrar um elogio para si
-[ ] Nãp é permitido cadastrar elogios para usuários inválidos
+[x] Não é permitido um usuário cadastrar um elogio para si
+[x] Nãp é permitido cadastrar elogios para usuários inválidos
 [ ] O usuário precisar estar autenticado na aplicação
